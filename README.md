@@ -26,14 +26,6 @@ A full stack banking application using Node.js, React and MongoDB for deployment
 - **Transaction Ledger**: Complete transaction history with references
 - **Indexes**: Optimized queries for performance
 
-### Deployment (Azure)
-- **Container Apps**: Scalable microservices architecture
-- **Container Registry**: Private Docker image storage
-- **Infrastructure as Code**: Bicep templates for reproducible deployments
-- **Monitoring**: Application Insights and Log Analytics
-- **Security**: Private networking and secure secrets management
-
-
 ## Getting Started
 
 ### Prerequisites
